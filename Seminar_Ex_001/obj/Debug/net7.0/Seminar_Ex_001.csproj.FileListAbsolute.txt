@@ -1,0 +1,15 @@
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/bin/Debug/net7.0/Seminar_Ex_001
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/bin/Debug/net7.0/Seminar_Ex_001.deps.json
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/bin/Debug/net7.0/Seminar_Ex_001.runtimeconfig.json
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/bin/Debug/net7.0/Seminar_Ex_001.dll
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/bin/Debug/net7.0/Seminar_Ex_001.pdb
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/Seminar_Ex_001.csproj.AssemblyReference.cache
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/Seminar_Ex_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/Seminar_Ex_001.AssemblyInfoInputs.cache
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/Seminar_Ex_001.AssemblyInfo.cs
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/Seminar_Ex_001.csproj.CoreCompileInputs.cache
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/Seminar_Ex_001.dll
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/refint/Seminar_Ex_001.dll
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/Seminar_Ex_001.pdb
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/Seminar_Ex_001.genruntimeconfig.cache
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/Seminar_Ex_001/obj/Debug/net7.0/ref/Seminar_Ex_001.dll

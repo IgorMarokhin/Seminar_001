@@ -1,0 +1,15 @@
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/Seminar_001.csproj.AssemblyReference.cache
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/Seminar_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/Seminar_001.AssemblyInfoInputs.cache
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/Seminar_001.AssemblyInfo.cs
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/Seminar_001.csproj.CoreCompileInputs.cache
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/bin/Debug/net7.0/Seminar_001
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/bin/Debug/net7.0/Seminar_001.deps.json
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/bin/Debug/net7.0/Seminar_001.runtimeconfig.json
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/bin/Debug/net7.0/Seminar_001.dll
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/bin/Debug/net7.0/Seminar_001.pdb
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/Seminar_001.dll
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/refint/Seminar_001.dll
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/Seminar_001.pdb
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/Seminar_001.genruntimeconfig.cache
+/Users/opvsn/Documents/Study/3. Basics of programming languages/Seminar_001/obj/Debug/net7.0/ref/Seminar_001.dll
