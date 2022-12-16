@@ -1,4 +1,6 @@
-﻿Console.Write("Введите первое целое число: ");
+﻿// Решение Задачи 2.
+
+Console.Write("Введите первое целое число: ");
 int userInput1 = int.Parse(Console.ReadLine() ?? "");
 
 Console.Write("Введите второе целое число: ");
